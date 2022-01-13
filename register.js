@@ -13,7 +13,7 @@ function processFormData() {
                 document.form2.action = "index.html"
         }
         else{
-                alert("wrong");
+                alert("WRONG");
                 document.form2.action = "register.html"
         }
         // alert("yor account is  " + name + "\npassword is " + email);
